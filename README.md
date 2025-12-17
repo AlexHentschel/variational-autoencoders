@@ -1,5 +1,7 @@
 # Variational Autoencoder in Keras
 
+<img src="..." height="222" />
+
 Implementation of **V**ariational **A**uto**e**ncoder (**VAE**) as described in
 [Louis Tiao's blog post](http://louistiao.me/posts/implementing-variational-autoencoders-in-keras-beyond-the-quickstart-tutorial/) 
 and [The Keras Blog](https://blog.keras.io/building-autoencoders-in-keras.html).

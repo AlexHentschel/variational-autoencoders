@@ -1,3 +1,9 @@
+<p align="center">
+<img src="https://github.com/user-attachments/assets/0241062b-c5fb-4bc0-8d7c-3b50dd1b813e" height="600" />
+</p>
+
+
+
 # Variational Autoencoder in Keras
 
 Implementation of **V**ariational **A**uto**e**ncoder (**VAE**) as described in
